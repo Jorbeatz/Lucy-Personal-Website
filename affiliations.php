@@ -21,7 +21,7 @@
         <?php include("navigation.php") ?>
 
         <div class="main-container transition--fade transition--active">
-          <section class="height-50">
+          <section class="height-50 bg--secondary">
               <div class="container pos-vertical-center">
                   <div class="row">
                       <div class="col-sm-8 col-sm-offset-2 text-center">

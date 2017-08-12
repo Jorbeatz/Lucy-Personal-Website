@@ -3,7 +3,7 @@
     <div class="row">
       <div class="nav-stack__upper">
         <div class="col-xs-6">
-          <a href="index.html">
+          <a href="./index.php">
             <img alt="logo" class="logo" src="img/logo-large-dark.png" />
           </a>
         </div>

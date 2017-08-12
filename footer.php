@@ -2,61 +2,42 @@
   <div class="container">
     <div class="row">
       <div class="col-md-3 col-sm-4">
-        <a href="#">
-          <!-- <img class="logo" alt="Pillar" src="img/logo-light.png"> -->
-        </a>
         <p>
-          <em>Dr. Lucy Hutner</em>
-          <br> Psychiatrist specializing in reproductive mental health
+          Dr. Lucy Hutner
+          <br> <em>Psychiatrist specializing in reproductive mental health</em>
         </p>
       </div>
-      <div class="col-md-5 col-sm-8">
+      <div class="col-md-6 col-md-offset-3 col-sm-8">
         <h6>Navigate</h6>
         <ul class="footer__navigation">
           <li>
-            <a href="#">
+            <a href="index.php">
               <span>Home</span>
             </a>
           </li>
           <li>
-            <a href="#">
+            <a href="about.php">
               <span>About</span>
             </a>
           </li>
           <li>
-            <a href="#">
+            <a href="contact.php">
               <span>Contact</span>
             </a>
           </li>
         </ul>
         <ul class="footer__navigation">
           <li>
-            <a href="#">
-              <span>Practice</span>
+            <a href="publications.php">
+              <span>publications</span>
             </a>
           </li>
           <li>
-            <a href="#">
+            <a href="affiliations.php">
               <span>Affiliations</span>
             </a>
           </li>
-          <li>
-            <a href="#">
-              <span>Research</span>
-            </a>
-          </li>
         </ul>
-      </div>
-      <div class="col-md-4 col-sm-12">
-        <h6>Subscribe</h6>
-        <p>
-          Get updates on reproductive psychiatry
-        </p>
-        <form class="form--merge form--no-labels form--active" action="http://mrareco.createsend.com/t/d/s/kieth/?callback=?" method="post" id="subForm" data-error="Please fill all fields correctly." data-success="Thanks for signing up! Please check your inbox for confirmation email." novalidate="novalidate">
-          <br>
-          <input class="col-md-8 col-sm-6 validate-required validate-email" id="fieldEmail" name="cm-kieth-kieth" type="email" placeholder="Email Address">
-          <button type="submit" class="btn">Go</button>
-        </form>
       </div>
     </div>
     <div class="row footer__lower text-center-xs">

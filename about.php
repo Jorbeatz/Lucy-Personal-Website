@@ -35,13 +35,14 @@
                 </div>
                 <div class="container">
                     <div class="row">
-                        <div class="col-sm-10 col-sm-offset-1">
-                            <img class="blog-post__hero box-shadow" alt="pic" src="http://via.placeholder.com/1600x1067">
+                        <div class="col-sm-10 col-sm-offset-1 text-center">
+                            <img class="blog-post__hero box-shadow" alt="pic" src="img/test.jpg">
                         </div>
                         <div class="col-sm-8 col-sm-offset-2">
                             <h5>Lorem Ipsum</h5>
                             <p>
-                                Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt.
+                                Lucy A. Hutner, M.D. is a nationally recognized expert in the field of reproductive psychiatry and women’s mental health.   She is the director of the reproductive psychiatry group at Union Square Practice in New York City. After graduating from Wesleyan University, she received her M.D. from the University of California, San Francisco.  She completed psychiatry residency training at Harvard, where she was a chief resident, followed by fellowship training at Columbia.  She has held numerous academic leadership positions, including as the associate director of the Women’s Program at Columbia and the director of the outpatient faculty practice program in reproductive psychiatry at NYU. Dr. Hutner has received numerous fellowships and awards, including the Laughlin Fellowship and the APA Psychiatric Leadership Fellowship, and in 2015 she was selected to be a member of the American College of Psychiatrists. She is a member of Postpartum Support International, RESOLVE, the Women’s Mental Health Consortium, and the National Task Force for Women’s Reproductive Mental Health.  She has lectured and taught both locally and nationwide, has co-authored numerous academic publications, and has been cited in the national media, including Pregnantish, Mic, Baby Center, and Yahoo Parenting.
+
                             </p>
                             <p>
                                 Dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur

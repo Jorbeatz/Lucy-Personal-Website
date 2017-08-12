@@ -21,12 +21,12 @@
         <?php include("navigation.php") ?>
 
         <div class="main-container transition--fade transition--active">
-          <section class="text-center space--md">
+          <section class="text-center space--md bg--secondary">
               <div class="container">
                   <div class="row">
                       <div class="col-sm-12">
                           <div class="">
-                              <span class="h2 inline-block">Publications</span>
+                              <span class="h1 inline-block">Publications</span>
                           </div>
                       </div>
                   </div>

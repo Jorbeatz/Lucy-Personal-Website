@@ -2,7 +2,7 @@
 <html lang="en">
     <head>
         <meta charset="utf-8">
-        <title>Pillar Multipurpose HTML Template</title>
+        <title>Contact | Dr. Lucy Hutner</title>
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <link href="css/bootstrap.css" rel="stylesheet" type="text/css" media="all" />
         <link href="css/socicon.css" rel="stylesheet" type="text/css" media="all" />

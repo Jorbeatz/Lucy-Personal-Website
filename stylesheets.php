@@ -7,4 +7,4 @@
 <link href="css/lightbox.min.css" rel="stylesheet" type="text/css" media="all" />
 <link href="css/theme.css" rel="stylesheet" type="text/css" media="all" />
 <link href="css/custom.css" rel="stylesheet" type="text/css" media="all" />
-<link href='https://fonts.googleapis.com/css?family=Lora:400,400italic,700%7CMontserrat:400,700' rel='stylesheet' type='text/css'>
+<link href="https://fonts.googleapis.com/css?family=Cambo" rel="stylesheet">
