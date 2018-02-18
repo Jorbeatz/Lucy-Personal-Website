@@ -4,7 +4,7 @@
       <div class="nav-stack__upper">
         <div class="col-xs-6">
           <a href="./index.php">
-            <img alt="logo" class="logo" src="img/logo-large-dark.png" />
+            <img alt="logo" class="logo" src="img/logo-large-dark2.png" style="max-height: 4.2em" />
           </a>
         </div>
         <div class="col-xs-6 text-right">
@@ -44,8 +44,8 @@
                 </a>
               </li>
               <li>
-                <a href="affiliations.php">
-                  Affiliations
+                <a href="media.php">
+                  Media
                 </a>
               </li>
               <li>

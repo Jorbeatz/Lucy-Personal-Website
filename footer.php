@@ -4,7 +4,7 @@
       <div class="col-md-3 col-sm-4">
         <p>
           Dr. Lucy Hutner
-          <br> <em>Psychiatrist specializing in reproductive mental health</em>
+          <br /><br /><em> Board-certified psychiatrist specializing in reproductive psychiatry, young adult mental health, and general adult psychopharmacology and psychotherapy.</em>
         </p>
       </div>
       <div class="col-md-6 col-md-offset-3 col-sm-8">
@@ -33,8 +33,8 @@
             </a>
           </li>
           <li>
-            <a href="affiliations.php">
-              <span>Affiliations</span>
+            <a href="media.php">
+              <span>Media</span>
             </a>
           </li>
         </ul>
@@ -49,7 +49,7 @@
           <span class="update-year">2017</span> Lucy A. Hutner</span>
         </div>
         <div class="col-sm-6 text-right text-center-xs">
-          <ul class="social-list">
+          <!-- <ul class="social-list">
             <li>
               <a href="#">
                 <i class="socicon-twitter"></i>
@@ -70,7 +70,7 @@
                 <i class="socicon-instagram"></i>
               </a>
             </li>
-          </ul>
+          </ul> -->
         </div>
       </div>
     </div>
